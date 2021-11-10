@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    background-color: green;
+    height: 500px;
+    width: 600px;
+    padding: 50px;
+    border: 10px solid blue;
+}
+#Spanid{
+    font-size: 18px;
+    margin: 50px;
+}
